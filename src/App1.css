@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.truck-name {
+  text-align: center;
+}
+
+.search {
+  margin: 50px auto;
+  text-align: center;
+}
+
+input {
+  border: 3px solid black;
+  height: 20px;
+  width: 200px;
+}
